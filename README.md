@@ -24,3 +24,11 @@ A Bash-based Linux system monitoring script that collects basic server health in
 ```bash
 chmod +x health-check.sh
 ./health-check.sh
+
+
+## Future Improvements
+
+- Add CPU threshold alerts
+- Add memory threshold alerts
+- Schedule the script with cron
+- Send alerts by email or Slack
