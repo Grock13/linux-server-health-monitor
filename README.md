@@ -19,3 +19,10 @@ A simple Bash script that collects basic Linux server health information.
 ```bash
 chmod +x health-check.sh
 ./health-check.sh
+
+## Future Improvements
+
+- Add CPU usage alerts
+- Add memory usage alerts
+- Send alerts automatically
+- Run the script on a schedule
